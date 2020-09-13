@@ -1,0 +1,13 @@
+Node,Connection
+CEO,Executive Secretary
+CEO,Marketing VP
+CEO,Production VP
+CEO,Sales VP
+Marketing VP,Public Relations
+Marketing VP,Product Services
+Product Services,Manager 1
+Product Services,Manager 2
+Production VP,Manager 3
+Production VP,Manager 4
+Sales VP,Manager 5
+Sales VP,Manager 6
